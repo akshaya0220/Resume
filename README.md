@@ -95,7 +95,7 @@
     <header>
         <div class="header-content">
             <!-- Add your profile picture here --->
-            <img src="https://i.ibb.co/TD9ZNj2k/IMG-20250319-121038.jpg" alt="IMG-20250319-121038" border="0" height="100"></a>
+            <img src="https://i.ibb.co/TD9ZNj2k/IMG-20250319-121038.jpg" alt="IMG-20250319-121038" border="0" height="100">
             <h1>Akshaya A</h1>
             <p>BSC Computer Science</p>
         </div>
